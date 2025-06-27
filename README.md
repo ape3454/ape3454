@@ -1,16 +1,11 @@
-## Hi there 👋
+# About Me
 
-<!--
-**ape3454/ape3454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Javascript and CSS
+- 👯 I’m looking to collaborate on Electron Hotel Lore
+- 💬 Ask me about Maths
+- 📫 How to reach me: Don't
+- 😄 Pronouns: This/Is Stupid
+- ⚡ Fun fact: I play piano
+- 🐈 Scratch is better
+- ◼️ Unity was fun
+- 🔉 You just lost the game
