@@ -1,7 +1,7 @@
 # About Me
 
 - 🌱 I’m currently learning Javascript and CSS
-- 👯 I’m looking to collaborate on Electron Hotel Lore
+- 👯 I’m looking to expand on Electron Hotel Lore
 - 💬 Ask me about Maths
 - 📫 How to reach me: Don't
 - 😄 Pronouns: This/Is Stupid
