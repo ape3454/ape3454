@@ -1,9 +1,8 @@
 # About Me
 
 - 🌱 I’m currently learning Javascript and CSS
-- 👯 I’m looking to expand on Electron Hotel Lore
 - 💬 Ask me about Maths
-- 📫 How to reach me: Don't
+- 📫 How to reach me: Probably Don't
 - 😄 Pronouns: This/Is Stupid
 - ⚡ Fun fact: I play piano
 - 🐈 Scratch is better
